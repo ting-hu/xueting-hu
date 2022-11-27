@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "description_header": "Hi ",
+    "description": "👋 I'm Xueting Hu(Ting). I am an entry-level software engineer with proven success in self-managed and team-based projects seeking to work with the software development life cycle and with object-oriented languages and functional programming. I am a native speaker of Mandarin with near-native fluency in English.",
+    "philosophy": "",
+    "section_name": {
+      "about": "About me",
+      "skills": "Skills",
+      "education": "Education",
+      "experience": "Experience"
+    }
+  },
+  "education":[
+    {
+      "company": "University of Wisconsin - Platteville",
+      "major":"Major: Software Engineering",
+      "minor":"Minor: Mathmaethic",
+      "description": "Graduated",
+      "years": "September 2018 - May 2022",
+      "mainTech": [
+        "Software Engineering"
+      ],
+      "technologies": [
+        "Object-Oriented Programming",
+        "Software Quality",
+        "Machine Learning",
+        "Applied Regression Analysis",
+        "Software Maintenance and Reengineering",
+        "Software Development Lifecycle and Methodology",
+        "Database Design and Implementation",
+        "Real-Time Embedded Systems Programming"
+      ]
+    },
+    {
+      "company": "University of Connecticut",
+      "major":"Web Full-Stack Developer Bootcamp",
+      "minor":"",
+      "description": "",
+      "years": "July 2021 - January 2022",
+      "mainTech": [
+        "Software Engineering"
+      ],
+      "technologies": [
+        "Web Development",
+        "Web Services"
+      ]
+    }
+
+  ],
+  "experience":[
+    {
+    "company": "University of Wisconsin - Platteville",
+    "title": "CS/SE Grader",
+    "description": "I worked at Computer Science and Software Engineering department as a grader for CS1430 and CS3830. My responsibilities includes: ",
+    "responsibilities" : [
+      "Assisting professor in grading labs and assignments.",
+      "Assuring students receive professional feedback.",
+      "Liaison between students and professor for programming questions."
+    ],
+    "years": "September 2021 - May 2022",
+    "mainTech": [
+      "Java",
+      "Python"
+    ],
+    "technologies": []
+  },{
+    "company": "University of Wisconsin - Platteville",
+    "title": "Internation Student Orientation Leader",
+    "description": "I worked at International Student & Scholar Services before and during orientation week. My responsibilities includes: ",
+    "responsibilities" : [
+      "Organizing and documenting students' information for the ISSS office.",
+      "Ground working and arranging activities throughout the orientation week.",
+      "Facilitating new international students adjust to the United States and to college life."
+    ],
+    "years": "August 2019 - December 2021",
+    "mainTech": [
+      "Leadership"
+    ],
+    "technologies": []
+  }
+
+  ]
+  
+}
